@@ -1,0 +1,139 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 600%;
+  position: relative;
+  top: 130px;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+h4 {
+  font-family: 'Verdana', sans-serif;
+  margin-bottom: 10px;
+}
+
+h5 {
+  font-family: 'Montserrat', sans-serif;
+  top: 30px;
+  text-align: center;
+  position: relative;
+}
+
+hr {
+  width: 33%;
+}
+
+a:hover {
+  color: black;
+}
+
+.top-cloud {
+  position: absolute;
+  left: 900px;
+  margin-top: 70px;
+}
+
+.firsting {
+  position: relative;
+  top: 60px;
+  font-size: 150%;
+}
+
+.bottom-cloud {
+  position: absolute;
+  top: 300px;
+  left: 270px;
+}
+
+.Top-Container {
+  background-color: #E4F9F5;
+  position: relative;
+}
+
+.Middle-Container {
+  position: relative;
+  height: 200px;
+  line-height: 2;
+  margin: 50px auto;
+}
+
+.boy1 {
+  position: absolute;
+  left: 136px;
+  width: 200px;
+  height: 200px;
+  float: left;
+}
+
+.boy2 {
+  position: absolute;
+  right: 136px;
+  width: 230px;
+  height: 230px;
+  top: 70px;
+  float: right;
+}
+
+.Bottom-Container {
+  line-height: 2;
+  position: relative;
+}
+
+.double-bottom {
+  position: relative;
+  height: 270px;
+  line-height: 2;
+}
+
+.description {
+  width: 30%;
+  margin: auto;
+}
+
+.Contact {
+  text-decoration: none;
+}
+
+.footer {
+  background-color: lightgreen;
+  height: 130px;
+  position: relative;
+}
+
+.icon {
+  width: 30px;
+  position: absolute;
+  margin: auto;
+}
+
+.linkedin {
+  top: 60px;
+  left: 620px;
+}
+
+.snapchat {
+  top: 60px;
+  left: 660px;
+}
+
+.telegram {
+  top: 60px;
+  left: 700px;
+}
